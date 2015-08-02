@@ -20,7 +20,7 @@ $sudo docker run -dti --name alarm -p 9912:9912 openfalcon-alarm
 
 ### Advanced Run
 
-+ Self-defined mysql account and configuration
++ Self-defined configuration
 
   Replace file **cfg.json** in the volume */config*.  
   For more detail about **cfg.json**, see [Alarm](http://book.open-falcon.com/zh/install/alarm.html).

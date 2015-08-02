@@ -28,6 +28,7 @@ $sudo docker run -dti --name alarm -p 9912:9912 openfalcon-alarm
 + New falcon-alarm package
 
     Replace file **falcon-alarm.tar.gz** in the volume */package*.
+    
 For example, **cfg.json** in /tmp/config and **falcon-alarm.tar.gz** in /tmp/pack,
 
 ```
